@@ -1,0 +1,17 @@
+bs4==0.0.2
+easyocr==1.7.2
+gradio==5.0.2
+langchain==0.3.3
+langchain-community==0.3.2
+langchain-core==0.3.10
+langchain-groq==0.2.0
+langchain-huggingface==0.1.0
+langchain-text-splitters==0.3.0
+numpy==1.26.4
+pdf2image==1.17.0
+PyMuPDF==1.24.11
+python-dotenv==1.0.1
+requests==2.32.3
+urllib3==2.2.3
+youtube-transcript-api==0.6.2
+-e .
