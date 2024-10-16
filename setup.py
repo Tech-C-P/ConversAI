@@ -10,8 +10,8 @@ def getRequirements(requirementsPath: str) -> list[str]:
 
 setup(
     name="ConversAI",
-    author="Rauhan Ahmed Siddiqui",
-    author_email="rauhaan.siddiqui@gmail.com",
+    author="Rauhan Ahmed Siddiqui, Ishwor Subedi",
+    author_email="rauhaan.siddiqui@gmail.com, ishworr.subedii@gmail.com",
     version="0.1",
     packages=find_packages(),
     install_requires=getRequirements(requirementsPath="requirements.txt"),

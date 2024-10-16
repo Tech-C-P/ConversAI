@@ -73,7 +73,7 @@ Additionally, you need to set up your environment variables for the GROQ API:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rauhanahmed/ConversAI.git
+   git https://github.com/Tech-C-P/ConversAI.git
    cd ConversAI
    ```
 
@@ -179,11 +179,11 @@ Sure! Here’s an updated section to include your contributions and acknowledgme
 
 ## 👤 Author Information
 
-| Author           | 📧 Email                            | 💻 GitHub                                       | 🔗 LinkedIn                                           | 🐦 Twitter                                        | 🌐 Portfolio                                |
-|------------------|-------------------------------------|-------------------------------------------------|-------------------------------------------------------|--------------------------------------------------|---------------------------------------------|
-| **Rauhan Ahmed** | rauhaan.siddiqui@gmail.com          | [RauhanAhmed](https://github.com/RauhanAhmed)    | [Rauhan Ahmed](https://www.linkedin.com/in/rauhan-ahmed) | [@ahmed_rauh46040](https://x.com/ahmed_rauh46040) | [rauhanahmed.org](https://rauhanahmed.org)  |
-| **Ishwor Subedi**| ishwor.subedi@email.com             | [IshworSubedi](https://github.com/ishworrsubedii)  | [Ishwor Subedi](https://www.linkedin.com/in/ishworrsubedii) | [@ishwor_subedi](https://x.com/ishworr_) | [ishworsubedi.com](https://ishwor-subedi.com.np) |
-| **Faham**        | faham@email.com                     | [Faham](https://github.com/iamfaham)                | [Faham](https://www.linkedin.com/in/iamfaham)             | [@faham_twitter](https://x.com/iamfaham)  | [faham.com](https://iamfaham.netlify.app)             |
+| Author           | 📧 Email                            | 💻 GitHub                                           | 🔗 LinkedIn                                           | 🐦 Twitter                                        | 🌐 Portfolio                                         |
+|------------------|-------------------------------------|-----------------------------------------------------|-------------------------------------------------------|---------------------------------------------------|------------------------------------------------------|
+| **Rauhan Ahmed** | rauhaan.siddiqui@gmail.com          | [RauhanAhmed](https://github.com/RauhanAhmed)       | [Rauhan Ahmed](https://www.linkedin.com/in/rauhan-ahmed) | [@ahmed_rauh46040](https://x.com/ahmed_rauh46040) | [rauhanahmed.org](https://rauhanahmed.org)           |
+| **Ishwor Subedi**| ishwor.subedi@email.com             | [ishworrsubedii](https://github.com/ishworrsubedii) | [Ishwor Subedi](https://www.linkedin.com/in/ishworrsubedii) | [@ishworr__](https://x.com/ishworr_)              | [ishwor-subedi.com.np](https://ishwor-subedi.com.np) |
+| **Faham**        | faham@email.com                     | [Faham](https://github.com/iamfaham)                | [Faham](https://www.linkedin.com/in/iamfaham)             | [@faham_twitter](https://x.com/iamfaham)          | [iamfaham.com](https://iamfaham.netlify.app)            |
 
 ## 🙏 Acknowledgments 
 
