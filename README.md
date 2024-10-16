@@ -182,8 +182,8 @@ Sure! Here’s an updated section to include your contributions and acknowledgme
 | Author           | 📧 Email                            | 💻 GitHub                                           | 🔗 LinkedIn                                           | 🐦 Twitter                                        | 🌐 Portfolio                                         |
 |------------------|-------------------------------------|-----------------------------------------------------|-------------------------------------------------------|---------------------------------------------------|------------------------------------------------------|
 | **Rauhan Ahmed** | rauhaan.siddiqui@gmail.com          | [RauhanAhmed](https://github.com/RauhanAhmed)       | [Rauhan Ahmed](https://www.linkedin.com/in/rauhan-ahmed) | [@ahmed_rauh46040](https://x.com/ahmed_rauh46040) | [rauhanahmed.org](https://rauhanahmed.org)           |
-| **Ishwor Subedi**| ishwor.subedi@email.com             | [ishworrsubedii](https://github.com/ishworrsubedii) | [Ishwor Subedi](https://www.linkedin.com/in/ishworrsubedii) | [@ishworr__](https://x.com/ishworr_)              | [ishwor-subedi.com.np](https://ishwor-subedi.com.np) |
-| **Faham**        | faham@email.com                     | [Faham](https://github.com/iamfaham)                | [Faham](https://www.linkedin.com/in/iamfaham)             | [@faham_twitter](https://x.com/iamfaham)          | [iamfaham.com](https://iamfaham.netlify.app)            |
+| **Ishwor Subedi**| ishwor.subedi@gmail.com             | [ishworrsubedii](https://github.com/ishworrsubedii) | [Ishwor Subedi](https://www.linkedin.com/in/ishworrsubedii) | [@ishworr__](https://x.com/ishworr_)              | [ishwor-subedi.com.np](https://ishwor-subedi.com.np) |
+| **Faham**        | iamfaham5@gmail.com                    | [Faham](https://github.com/iamfaham)                | [Faham](https://www.linkedin.com/in/iamfaham)             | [@faham_twitter](https://x.com/iamfaham)          | [iamfaham.com](https://iamfaham.netlify.app)            |
 
 ## 🙏 Acknowledgments 
 
